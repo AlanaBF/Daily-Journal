@@ -1,0 +1,11 @@
+{
+  "name": "daily-journal",
+  "version": "1.0.0",
+  "description": "A blog app that uses Node.js, Express, Lodash and EJS to create a journal of daily activities",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alana Barrett-Frew",
+  "license": "MIT"
+}
